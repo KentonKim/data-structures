@@ -1,0 +1,4 @@
+// treenode
+// value
+// right
+// left
